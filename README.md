@@ -1,3 +1,3 @@
 # Past-Coursework-and-Reports
-- This folder contains previous coding courseworks, projects and experimental reports in my past courses (at UCL).
+- This folder contains my previous coding coursework, projects and experimental reports for past courses (at UCL).
 
